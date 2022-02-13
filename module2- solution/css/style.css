@@ -12,7 +12,7 @@ h1 {
 
 body {
     margin:0%;
-    font-size: 100%;
+    font-size: 120%;
 
 }
 
@@ -25,7 +25,7 @@ p {
     background-color: grey;
     width: 95%;
     height:250px;
-    padding :30px 10px 10px 10px;
+    padding :40px 10px 10px 10px;
     margin-right: 2.5%;
     margin-left: 2.5%;
     overflow: auto;
@@ -33,7 +33,7 @@ p {
 }
 
 #chicken {
-    position: relative;
+    
     float: right;
     height: 30px;
     border: 1px solid black;
@@ -41,7 +41,7 @@ p {
     text-align: center;
     position: relative;
     top: 30px;
-    right: 0px;
+    right: 2.5%;
     width: 30%;
     margin-right: auto;
     margin-left: auto;
@@ -49,7 +49,7 @@ p {
 }
 
 #beef {
-    position: relative;
+    
     float: right;
     height: 30px;
     border: 1px solid black;
@@ -58,14 +58,14 @@ p {
     color: white;
     position: relative;
     top: 30px;
-    right: 0px;
+    right: 2.5%;
     width: 30%;
     margin-right: auto;
     margin-left: auto;
     font-size: 1.25em;
 }
 #sushi{
-    position: relative;
+    
     float: right;
     height: 30px;
     border: 1px solid black;
@@ -74,7 +74,7 @@ p {
     color: black;
     position: relative;
     top: 30px;
-    right: 0px;
+    right: 2.5%;
     width: 30%;
     margin-right: auto;
     margin-left: auto;
